@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mathieu
 - 👀 I’m interested in creative solutions | problem solving
-- 🌱 Seeking betterment through experiences, mainly through trial and error
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Seeking betterment through experiences, testing my limits and pushing them further back.
+- 💞️ I’m looking to collaborate on technical projects 
+- 📫 How to reach me https://www.linkedin.com/in/mathieuseydewitz
 
 <!---
 MatjoVS/MatjoVS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
